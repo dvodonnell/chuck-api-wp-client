@@ -1,0 +1,19 @@
+{
+  "name": "chuck-api-wp-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvodonnell/chuck-api-wp-client.git"
+  },
+  "author": "Dan O'Donnell <dan@dvoc.ca> (http://dvoc.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvodonnell/chuck-api-wp-client/issues"
+  },
+  "homepage": "https://github.com/dvodonnell/chuck-api-wp-client#readme"
+}
